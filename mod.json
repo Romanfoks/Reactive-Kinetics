@@ -1,16 +1,16 @@
 {
-  "Name": "Empty Mod",
-  "Author": "You! :D",
-  "Description": "Please add details about your mod here.",
+  "Name": "Reactive Kinetics",
+  "Author": "Roma",
+  "Description": "Reactive Kinetics: Где Физика Встречает Химию",
   "ModVersion": "1.0",
-  "GameVersion": "1.21+",
-  "ThumbnailPath": "sprites/placeholder.png",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "thumb.png",
   "EntryPoint": "Mod.Mod",
-  "Tags": [],
-  "Scripts": [
-    "mod.cs"
+  "Tags": [
+    "Electronics",
+    "Machine"
   ],
-  "Active": true,
-  "UGCIdentity": null,
-  "CreatorUGCIdentity": null
+  "Scripts": [
+    "script.cs"
+  ]
 }
